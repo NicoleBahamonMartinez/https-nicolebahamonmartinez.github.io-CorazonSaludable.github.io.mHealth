@@ -105,7 +105,8 @@ h6 {
 }
 
 .li-space-lg li {
-	margin-bottom: 0.625rem;
+	margin: 0.625rem;
+	padding:0.1rem;
 }
 
 a {
