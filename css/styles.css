@@ -113,7 +113,13 @@ a {
 	color: #555;
 	text-decoration: underline;
 }
-
+.center {
+	margin: 0;
+	position: absolute;
+	left: 50%;
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
 a:hover {
 	color: #555;
 	text-decoration: underline;
